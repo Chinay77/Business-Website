@@ -1,0 +1,20 @@
+Overview
+This is a simple website created by Chinay Bohara using HTML, CSS, and JavaScript.
+
+Description
+This website showcases the work of Chinay Bohara.
+It includes HTML pages, CSS styles for design, and JavaScript for interactivity.
+
+Features
+HTML, CSS, and JavaScript components.
+Portfolio of projects.
+Contact information.
+
+Usage
+Clone the repository.
+Open the index.html file in your web browser.
+
+Author
+Chinay Bohara
+Website: [Author's Website](Author's Website URL)
+GitHub: [Author's GitHub Profile](Author's GitHub Profile URL)
